@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\data_extract",
+    "\\data_system",
+    "\\data_system\\influx",
+    "\\data_system\\mongo",
+    "\\redditImporter"
   ],
-  "SelectedNode": "\\redditImporter",
+  "SelectedNode": "\\docker-compose.yml",
   "PreviewInSolutionExplorer": false
 }

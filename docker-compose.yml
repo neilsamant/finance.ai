@@ -1,0 +1,8 @@
+services:
+  data_system_mongo:
+    image: neilsamant/mongo:develop
+  data_system_influx:
+    image: neilsamant/influx:develop
+
+
+    

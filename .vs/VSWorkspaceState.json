@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\finviz_data"
   ],
+  "SelectedNode": "\\finviz_data\\data_aq.py",
   "PreviewInSolutionExplorer": false
 }
